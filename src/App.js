@@ -13,9 +13,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
-          SheCodes student project coded by Lieke van der Made
-        </footer>
+        <footer>SheCodes student project coded by Lieke van der Made</footer>
       </div>
     </div>
   );

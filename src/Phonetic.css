@@ -1,0 +1,19 @@
+.Phonetic {
+  height: 50px;
+  opacity: 0.7;
+}
+
+.Phonetic a {
+  font-size: 20px;
+  border: 1px solid pink;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 25px;
+  margin-left: 15px;
+  color: pink;
+}
+
+.Phonetic a:hover {
+  background: pink;
+  color: white;
+}

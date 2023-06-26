@@ -1,4 +1,9 @@
+body {
+  background: pink;
+}
+
 header {
+  text-align: center;
   margin-top: 60px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -15,9 +20,9 @@ footer {
   font-size: 10px;
 }
 
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 20vmin;
