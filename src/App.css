@@ -1,23 +1,31 @@
 body {
-  background: pink;
+  /* background: #416c4b;
+  color: #13655f; */
+  background: #fbf583;
+  color: #11188b;
 }
 
 header {
   text-align: center;
   margin-top: 60px;
+  color: #11188b;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
 
 header h1 {
-  font-size: 52px;
+  font-size: 64px;
   margin: 20px;
+  color: #fa91ce;
+  font-weight: bold;
 }
 
 footer {
   margin-top: 80px;
   margin-bottom: 10px;
   font-size: 10px;
+  text-align: center;
+  color: #fa91ce;
 }
 
 /* .App {

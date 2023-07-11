@@ -5,15 +5,15 @@
 
 .Phonetic a {
   font-size: 20px;
-  border: 1px solid pink;
+  border: 1px solid rgb(231, 215, 217);
   text-decoration: none;
   padding: 10px;
   border-radius: 25px;
   margin-left: 15px;
-  color: pink;
+  color: rgb(231, 215, 217);
 }
 
 .Phonetic a:hover {
-  background: pink;
-  color: white;
+  background: rgb(231, 215, 217);
+  color: rgb(255, 255, 255);
 }
