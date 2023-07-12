@@ -13,7 +13,13 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>SheCodes student project coded by Lieke van der Made</footer>
+        <footer>
+          This SheCodes student{" "}
+          <a href="https://github.com/LiekeM/dictionary-project" rel="external">
+            project is open source
+          </a>{" "}
+          and coded by Lieke van der Made
+        </footer>
       </div>
     </div>
   );
