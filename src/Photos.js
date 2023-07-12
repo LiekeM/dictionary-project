@@ -28,7 +28,11 @@ export default function Photos(props) {
         {photosUrls.map((url) => {
           return (
             <div className="col">
-              <img src={url} className="img-fluid"></img>
+              <img
+                src={url}
+                className="img-fluid"
+                alt="dictionary-result"
+              ></img>
             </div>
           );
         })}

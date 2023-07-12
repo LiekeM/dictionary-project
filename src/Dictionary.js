@@ -24,7 +24,7 @@ export default function Dictionary() {
   // }
 
   function handleError(error) {
-    console.log(error.response.data.message);
+    // console.log(error.response.data.message);
     setErrorMessage(error.response.data.message);
     alert(error.response.data.message);
   }
@@ -76,6 +76,6 @@ export default function Dictionary() {
     );
   } else {
     load();
-    return "loading";
+    return errorMessage;
   }
 }
